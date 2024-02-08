@@ -1,4 +1,4 @@
-module github.com/FurqanSoftware/goldmark-katex
+module github.com/zcywxy/goldmark-katex
 
 go 1.19
 
